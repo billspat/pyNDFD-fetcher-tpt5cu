@@ -2,7 +2,7 @@
 
 This repository contains a repo with APIs for the National Digital Forecast Database Service. More info on the NDFD [HERE](https://www.weather.gov/mdl/ndfd_home)
 
-
+*This is a copy of original work (fork) from TUOMAS TALVITIE ( https://github.com/tpt5cu )*
 
 ## API calls
 
